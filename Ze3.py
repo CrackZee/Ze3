@@ -1,6 +1,6 @@
 #!/usr/bin/python2																	#coding=utf-8																	
 
-#The Credit For This Code Goes To AneesJerry																	
+#The Credit For This Code Goes To Ze3 Cr4k3r																	
 
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...																	
 
@@ -96,7 +96,7 @@ def jalan(z):
 
 																	
 
-#Dev:Anees_jerry																	
+#Dev:Ze3_CR4CK3R																
 
 ##### LOGO #####																	
 
@@ -116,11 +116,11 @@ logo = """
 
   \033[1;96m::▒▒▒▒▒▒▒▒▒▒\033[1;91mWhatsapp\033[1;96m▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒::::        																	
 
-  \033[1;91m:▒▒▒▒▒▒▒▒▒▒\033[1;93m+923172529124\033[1;91m▒▒▒▒▒▒▒▒▒▒▒▒▒:::::																	
+  \033[1;91m:▒▒▒▒▒▒▒▒▒▒\033[1;93m+923000000000\033[1;91m▒▒▒▒▒▒▒▒▒▒▒▒▒:::::																	
 
   \033[1;96m::♧♧♧♧♧♧♧♧♧♧\033[1;91mWhatsapp\033[1;96m♧♧♧♧♧♧♧♧♧♧▒▒▒▒▒▒▒::::        																	
 
-  \033[1;91m:》》》\033[1;93m+923172529124\033[1;91m《《《▒▒▒▒▒▒▒▒▒▒▒:::::																	
+  \033[1;91m:》》》\033[1;93m+923000000000\033[1;91m《《《▒▒▒▒▒▒▒▒▒▒▒:::::																	
 
 \033[1;95m♡╭──────────•◈•──────────╮♡\033[1;96m-BlackMafia-\033[1;95m♡╭──────────•◈•──────────╮♡																	
 
@@ -134,11 +134,11 @@ jalan("\033[1;93m   ┈┈┈┈┈┈┈┈▕╲▂▂╱▏┈┈┈┈┈┈
 
 print "\033[1;93m♡─────╱▔▔▔▔┊┊┊┊▔▔▔▔╲───────♡\033[1;96mLogin BlackMafia\033[1;95m♡╰──────────•◈•──────────╯♡"																	
 
-CorrectUsername = "BlackMafiaNew"																	
+CorrectUsername = "Ze3"																	
 
-CorrectUsername = "BlackMafia"																	
+CorrectUsername = "Ze3"																	
 
-CorrectPassword = "lovehacker"																	
+CorrectPassword = "Ze3"																	
 
 loop = 'true'																	
 
@@ -516,30 +516,10 @@ loop = 'true'
 
 	print"\033[1;91mTotal OK/\x1b[1;93mCP \033[1;91m: \033[1;91m"+str(len(oks))+"\033[1;97m/\033[1;95m"+str(len(cekpoint))																
 
-	print """																
+	print """
+: \033[1;96m .....CrackZee BlackMafia........... \033[1;93m :																	
 
-             																	
-
-             ...........███ ]▄▄▄▄▄▃																	
-
-             ..▂▄▅█████▅▄▃▂																	
-
-             [███████████████]																	
-
-             ◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙◤																	
-
-♡──────────────•◈•──────────────♡.																	
-
-: \033[1;96m .....Aneesjerry  BlackMafia........... \033[1;93m :																	
-
-♡──────────────•◈•──────────────♡.' 																	
-
-                whatsapp Num																	
-
-               +923172529124"""																	
-
-																	
-
+♡──────────────•◈•──────────────♡"""
 	raw_input("\n\033[1;92m[\033[1;94mBack\033[1;96m]")																
 
 	menu()																
