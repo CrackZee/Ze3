@@ -105,10 +105,10 @@ vuln = "\033[32mVuln"
 def lisensi():
 	os.system('reset')
 	print "Don't Use Ilegal,\nCeue tepod jangan pake program ini,\nntar tervully nangid :(\n"
-	username = raw_input("[*] Username : ")
-	passw = raw_input("[*] Password : ")
+	username = raw_input("[*] Username :Ze3")
+	passw = raw_input("[*] Password :Ze3")
 	r = requests.get("https://reddemons.000webhostapp.com/pa.txt").text
-	if passw =="":
+	if passw =="Ze3":
 		print"\033[1;91m[!] Wrong"
 		keluar()
 	elif len(passw) < 10:
