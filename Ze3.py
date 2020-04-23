@@ -37,19 +37,18 @@ def jalan(z):
 		time.sleep(00000.1)
 ##### LOGO #####
 logo = """
-   Asif Javed
-   ▄︻̷̿┻̿═━一
-   THE ANONYMOUS lovehacker TRICKER 
-   THE LEGEND ℒℴνℯ
-   THE GAME CHANGER ℒℴνℯ
-   pakistani hackers
-   ℒℴνℯ ▄︻̷̿┻̿═━一
+┏━━━┓╋╋╋╋╋╋╋┏┓
+┃┏━┓┃╋╋╋╋╋╋╋┃┃
+┃┃╋┗╋━┳━━┳━━┫┃┏┳━━┳━┓
+┃┃╋┏┫┏┫┏┓┃┏━┫┗┛┫┃━┫┏┛
+┃┗━┛┃┃┃┏┓┃┗━┫┏┓┫┃━┫┃
+┗━━━┻┛┗┛┗┻━━┻┛┗┻━━┻┛
 \033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mlove
 \033[1;96mYouTube \033[1;93m: \033[1;92mPakistani Hackers
 \033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/lovehacker/love
 \033[1;96mBlogger \033[1;93m: \033[1;92mhttps://www.facebook.com/lovehacker
-\033[1;91m======================================="""
+\033[1;91m======================================= """
 def tik():
 	titik = ['.   ','..  ','... ']
 	for o in titik:
