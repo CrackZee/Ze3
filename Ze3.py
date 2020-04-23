@@ -100,33 +100,6 @@ listgrup = []
 vulnot = "\033[31mNot Vuln"
 vuln = "\033[32mVuln"
 
-##### LICENSE #####
-#=================#
-def lisensi():
-	os.system('reset')
-	print "Don't Use Ilegal,\nCeue tepod jangan pake program ini,\nntar tervully nangid :(\n"
-	username = raw_input("[*] Username :Ze3")
-	passw = raw_input("[*] Password :Ze3")
-	r = requests.get("https://reddemons.000webhostapp.com/pa.txt").text
-	if passw =="Ze3":
-		print"\033[1;91m[!] Wrong"
-		keluar()
-	elif len(passw) < 10:
-		print "\033[1;91m[!] Wrong"
-		keluar()
-	elif passw in r:
-		print '\033[1;91m[\033[1;96m✓\033[1;91m] \033[1;92mSuccessfully'
-		time.sleep(1)
-		try:
-			toket = open('login.txt','r')
-			menu()
-		except (KeyError,IOError):
-			masuk()
-	else:
-		print "\033[1;91m[!] Wrong"
-		time.sleep(1)
-		keluar()
-
 ##### Pilih Login #####
 def masuk():
 	os.system('reset')
